@@ -1,0 +1,25 @@
+[OPTIONS]
+Binary Index=No
+Compatibility=1.1 or later
+Compiled file=Citadel of Blood.chm
+Contents file=Table of Contents.hhc
+Default topic=Introduction - Background.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0xc09 English (Australia)
+
+
+[FILES]
+Movement - General Rule.htm
+Movement - Deadends.htm
+Movement - Mirrors.htm
+Movement - Segment Rotation.htm
+Movement - Staircases.htm
+Introduction - Equipment.htm
+Introduction - Hellgate.htm
+Introduction - Victory Conditions.htm
+Introduction - Background.htm
+
+[INFOTYPES]
+
